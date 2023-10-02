@@ -1,0 +1,48 @@
+img {
+    width: 200px;
+    heght: 150px;
+    border: double;
+    border-width: 5px
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+li {
+    font-size: 20px;
+}
+
+div {
+    width: 300px;
+    padding 50px;
+    margin: 50px
+}
+ 
+h1 {
+    margin: 50px
+}
+
+p {
+    font-size: 20px;
+}
+
+#bear p{
+color: rgb(143, 81, 44);
+}
+
+#giraffe p {
+    color: rgb(251, 166, 10)
+}
+
+#lion p {
+    color: rgb(227, 173, 55)
+}
+
+#monkey p {
+    color: rgb(222, 25, 219)
+}
+
+#alligator p {
+    color: green
+}
